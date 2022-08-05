@@ -1,7 +1,7 @@
 # Pewlett-Hackard
 
 ## Overview of the Analysis
-The purpose of this analysis is to help determine the number of employees retiring in each role at company Pewlett-Hackard. I was also taked with finding the number of employees eligible to particpate in the company's mentorship program. 
+The purpose of this analysis is to help determine the number of employees retiring in each role at company Pewlett-Hackard. I was also tasked with finding the number of employees eligible to participate in the company's mentorship program. 
 
 ## Results 
 
